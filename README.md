@@ -1,9 +1,11 @@
-To use this you need to go to youtube studio
-https://studio.youtube.com/
-then go to analytics
-in the top right click (Advanced mode)
-a popup will show up and there will be a download button at the top right 
-make sure you select 
-Comma-seperated values (.csv)
-it only works with this type of file
-then run the exe and drop that csv zip file into the software and your good!
+To use this tool, follow these steps carefully.
+
+First, go to YouTube Studio at https://studio.youtube.com/
+
+Next, open the Analytics section. In the top-right corner, click Advanced mode. A new window will appear.
+
+In this window, locate the Download button in the top-right corner. When downloading, you must select Comma-Separated Values (.csv). The software only works with this file format.
+
+Once the file is downloaded, run the executable file for the software. Then drag and drop the downloaded CSV file, or the zipped CSV if applicable, into the program.
+
+After that, the software is ready to use.
